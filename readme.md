@@ -10,22 +10,22 @@ source :  https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews/d
 
 
 ### Project Steps
-1. Exploratory Data Analysis (EDA):
+1. Exploratory Data Analysis (EDA): 
    Performed data visualization to understand the distribution of sentiments.
    Analyzed common words in each sentiment category.
 
-2. Text Preprocessing
+2. Text Preprocessing: 
    Normalize text (Converted text to lowercase; Removed non-alphabetic characters, numbers, and stop words; Applied stemming/lemmatization).
 
-3. Feature Engineering
+3. Feature Engineering: 
    Tokenized the text data.
    Applied padding to ensure consistent input lengths.
    Resampled the data to address class imbalance.
 
-4. Model Building
-        - Use Tensorflow to Build LSTM Model for classification.
+4. Model Building:
+   Use Tensorflow to Build LSTM Model for classification.
         
-5. Evaluation
-        - Use Confusion Matrix, Classification Report, ROC Curve, and Precision-Recall Curve.
+6. Evaluation:
+   Use Confusion Matrix, Classification Report, ROC Curve, and Precision-Recall Curve.
 
 
