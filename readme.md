@@ -6,7 +6,7 @@ This project involves building a sentiment analysis model to classify hotel revi
 
 ### Dataset
 Dataset title : TripAdvisor Hotel Review
-source :  https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews/data
+>source :  https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews/data
 
 
 ### Project Steps
